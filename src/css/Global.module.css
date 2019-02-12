@@ -1,0 +1,37 @@
+.Container{
+    padding: 100px
+}
+.Heading{
+    text-transform: uppercase;
+    font-size: 28px;
+    color: #43425D
+}
+.h6{
+    color: #B4B5BA;
+    margin-bottom: 50px;
+    font-weight: normal
+}
+.Input{
+    border: none;
+    border-bottom: 1px solid #E9E9F0;
+    width: 100%;
+    margin-bottom: 30px
+}
+.Label{
+    float: left;
+    margin-bottom: 0;
+    color: #43425D
+
+}
+.Background{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh
+}
+.Link{
+    text-align:center;
+    cursor: pointer;
+    width: 100%;
+    color: #43425D!important;
+    text-decoration: underline!important
+}
